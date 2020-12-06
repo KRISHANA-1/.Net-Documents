@@ -1,3 +1,6 @@
 https://docs.microsoft.com/en-us/aspnet/core/mvc/controllers/routing?view=aspnetcore-3.1
 https://divtable.com/table-styler/
 https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started/getting-started-with-ef-using-mvc/
+
+full tutorial of before .net core
+https://docs.microsoft.com/en-us/aspnet/tutorials
